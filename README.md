@@ -4,7 +4,11 @@
 
 ### RAG-Powered Intelligent Document Analysis
 
-*Upload documents. Ask questions. Get answers with sources.
+*Upload documents. Ask questions. Get answers with sources.*
+
+![DocQA Login](./screenshots/login.png)
+
+</div>
 
 ---
 
@@ -13,6 +17,14 @@
 DocQA is a full-stack AI chatbot that lets you have real conversations with your documents. Upload PDFs or images, ask questions in plain English, and get comprehensive answers that cite exactly which page they came from — no hallucinations, no guessing.
 
 When your documents don't have the answer, DocQA automatically falls back to a live web search and tells you it did so. Every answer is grounded, transparent, and traceable.
+
+---
+
+## Screenshots
+
+| Login | Chat | Document Q&A |
+|-------|------|--------------|
+| ![Login](./screenshots/1.PNG) | ![Chat](./screenshots/2.PNG) | ![QA](./screenshots/3.PNG) |
 
 ---
 
@@ -25,15 +37,6 @@ When your documents don't have the answer, DocQA automatically falls back to a l
 - **Source citations** — every answer includes collapsible source chips showing filename, page number, and a text snippet
 - **Confidence scoring** — each answer shows a confidence percentage based on how much relevant source material was found
 - **Self-RAG** — before returning an answer, the system evaluates whether it actually answers the question. If not, it rewrites the query and retries
-
-  ## Screenshots
-
-<img width="277" height="336" alt="1" src="https://github.com/user-attachments/assets/03c67e47-0a2f-4f4b-9059-f46f9d1ee19d" />
-
-<img width="958" height="439" alt="2" src="https://github.com/user-attachments/assets/57dfeb12-1448-4d1f-a67f-134268994d6b" />
-
-<img width="622" height="312" alt="3" src="https://github.com/user-attachments/assets/3796b010-f5d7-4df4-9a39-f021471f8429" />
-
 
 ### Agentic Behavior
 - **Query rewriting** — vague or follow-up questions are automatically rewritten into clear standalone queries using conversation history
@@ -54,7 +57,6 @@ When your documents don't have the answer, DocQA automatically falls back to a l
 - **Per-user chat history** — each account has its own isolated conversation store
 
 ---
-
 
 ## Tech Stack
 
