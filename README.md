@@ -243,7 +243,7 @@ Get a free key at [console.groq.com](https://console.groq.com) — no credit car
 
 ## License
 
-MIT — use it, modify it, ship it.
+MIT 
 
 ---
 
