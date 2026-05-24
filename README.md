@@ -16,7 +16,7 @@
 
 DocQA is a full-stack AI chatbot that lets you have real conversations with your documents. Upload PDFs or images, ask questions in plain English and get comprehensive answers that cite exactly which page they came from — no hallucinations, no guessing.
 
-When your documents don't have the answer, DocQA automatically falls back to a live web search and tells you it did so. Every answer is grounded, transparent, and traceable.
+When your documents don't have the answer, DocQA automatically falls back to a live web search and tells you it did so. 
 
 ---
 
