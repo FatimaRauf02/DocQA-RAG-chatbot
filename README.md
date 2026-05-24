@@ -14,7 +14,7 @@
 
 ## Overview
 
-DocQA is a full-stack AI chatbot that lets you have real conversations with your documents. Upload PDFs or images, ask questions in plain English, and get comprehensive answers that cite exactly which page they came from — no hallucinations, no guessing.
+DocQA is a full-stack AI chatbot that lets you have real conversations with your documents. Upload PDFs or images, ask questions in plain English and get comprehensive answers that cite exactly which page they came from — no hallucinations, no guessing.
 
 When your documents don't have the answer, DocQA automatically falls back to a live web search and tells you it did so. Every answer is grounded, transparent, and traceable.
 
@@ -22,9 +22,10 @@ When your documents don't have the answer, DocQA automatically falls back to a l
 
 ## Screenshots
 
-| Login | Chat | Document Q&A |
-|-------|------|--------------|
-| ![Login](./screenshots/1.PNG) | ![Chat](./screenshots/2.PNG) | ![QA](./screenshots/3.PNG) |
+<img width="277" height="336" alt="1" src="https://github.com/user-attachments/assets/fc75cfc0-17cf-4089-a7d5-87eca93d16e6" />
+<img width="958" height="439" alt="2" src="https://github.com/user-attachments/assets/3932219d-9061-4437-a907-af2851eeb313" />
+<img width="622" height="312" alt="3" src="https://github.com/user-attachments/assets/0bed461f-d0fe-4a11-9f9e-b5dd49f37db7" />
+
 
 ---
 
@@ -53,7 +54,7 @@ When your documents don't have the answer, DocQA automatically falls back to a l
 
 ### Auth
 - **Local username/password login** — stored in browser localStorage, no backend auth server needed
-- **Unique username enforcement** — real-time availability check during signup, like Instagram/Snapchat
+- **Unique username enforcement** — real-time availability check during signup
 - **Per-user chat history** — each account has its own isolated conversation store
 
 ---
