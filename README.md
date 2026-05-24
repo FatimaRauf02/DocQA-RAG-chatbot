@@ -6,7 +6,7 @@
 
 *Upload documents. Ask questions. Get answers with sources.*
 
-![DocQA Login](./screenshots/login.png)
+
 
 </div>
 
